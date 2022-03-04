@@ -1,16 +1,23 @@
-### Hi there 👋
+@@ -7,21 +7,12 @@ on:
+      - master
+      - theme-preview-script
+      - "themes/index.js"
+  issue_comment:
+    types: [edited]
 
-<!--
-**davifernandes1/davifernandes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jobs:
+  comment:
+    if: contains(github.event.comment.html_url, '/pull/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: say hello
+        if: contains(github.event.comment.body, 'Automated Theme Preview')
+        run: |
+          echo say hello
+  build:
+    runs-on: ubuntu-latest
+    name: Install & Preview
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    steps:
+      - uses: actions/checkout@v1
+      - uses: bahmutov/npm-install@v1

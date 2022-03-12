@@ -1,4 +1,4 @@
-## Oi eu sou o Davi, estudante de Desenvolvimento de Sistemas!
+## Oi eu sou o Davi, Estudante de Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/davifernandes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifernandes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

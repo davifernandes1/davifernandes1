@@ -1,6 +1,5 @@
-<div align="center"> <a href="https://github.com/davifernandes1"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=davifernandes1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifernandes1&layout=compact&langs_count=7&theme=midnight-purple"/> </div>
-
 <div> <img align="right" height="430em" src="./github.gif"/> <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi  </h1>
+  <div align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifernandes1&layout=compact&langs_count=7&theme=midnight-purple"/> </div>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

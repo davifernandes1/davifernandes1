@@ -1,4 +1,5 @@
 <div> <img align="right" height="430em" src="./github.gif"/> <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi  </h1>
+  <p align="left">Estou cursando Analise e Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens de java e python. Procuro sempre aprender e isso que me motiva a ficar por dentro das demais novidades do mundo tecnológico!</p>
   <img align="right" alt="davi-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/27/87/21/278721b05c9ce199d163c78d1f72f823.gif">
   <div> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifernandes1&layout=compact&langs_count=7&theme=midnight-purple"/> </div>
   </div>

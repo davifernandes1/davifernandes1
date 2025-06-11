@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="URL_DA_SUA_FOTO_AQUI" width="200px" alt="Foto de Perfil de Davi Fernandes" style="border-radius:50%;"/>
   <h1>Davi Fernandes</h1>
   <p><strong>Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Java & TypeScript</strong></p>
 </div>
